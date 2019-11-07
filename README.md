@@ -20,7 +20,7 @@ Please run the Driver.class in main.ga package
 ## Report
 [Report is here](Report_221.pdf)
 ## Picture Result
-![picture](final/info6205_FinalProject/resource/target.png) . 
+![picture](Algorithm/resource/target.png) . 
 
 Target picture after compress / First generation picture / Result picture. 
 
