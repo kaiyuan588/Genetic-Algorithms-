@@ -24,18 +24,18 @@ Please run the Driver.class in main.ga package
 
 Target picture after compress / First generation picture / Result picture. 
 
-![picture](final/info6205_FinalProject/resource/compress.png) . 
-![picture](final/info6205_FinalProject/resource/gen0.png) . 
-![picture](final/info6205_FinalProject/resource/result.png)     
+![picture](Algorithm/resource/compress.png) . 
+![picture](Algorithm/resource/gen0.png) . 
+![picture](Algorithm/resource/result.png)     
 
 Changing Process
 
-![picture](final/info6205_FinalProject/resource/gen0.png) . 
-![picture](final/info6205_FinalProject/resource/gen99.png) . 
-![picture](final/info6205_FinalProject/resource/gen198.png) . 
-![picture](final/info6205_FinalProject/resource/gen990.png) . 
-![picture](final/info6205_FinalProject/resource/gen1980.png) . 
-![picture](final/info6205_FinalProject/resource/gen2970.png) . 
-![picture](final/info6205_FinalProject/resource/gen3960.png) . 
-![picture](final/info6205_FinalProject/resource/gen4950.png) . 
-![picture](final/info6205_FinalProject/resource/result.png)     
+![picture](Algorithm/resource/gen0.png) . 
+![picture](Algorithm/resource/gen99.png) . 
+![picture](Algorithm/resource/gen198.png) . 
+![picture](Algorithm/resource/gen990.png) . 
+![picture](Algorithm/resource/gen1980.png) . 
+![picture](Algorithm/resource/gen2970.png) . 
+![picture](Algorithm/resource/gen3960.png) . 
+![picture](Algorithm/resource/gen4950.png) . 
+![picture](Algorithm/resource/result.png)     
